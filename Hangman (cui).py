@@ -24,7 +24,7 @@ def win_chk():
 		return True
 		
 def get_words():
-	with open(r"C:\Users\vaibhav chopra\Desktop\codes\Python_projects\Hangman\hangman_words.txt","r") as f:
+	with open(r"hangman_words.txt","r") as f:
 		wrd=f.readlines()
 		s=[]
 		for w in wrd[:-1]:
