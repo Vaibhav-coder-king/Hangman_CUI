@@ -36,4 +36,5 @@ A terminal-based implementation of the classic **Hangman** game written in Pytho
 Only single-letter guesses are allowed unless you attempt the full word.
 
 ## 🧑‍💻 Author
-Made by Vaibhav using Python and a love for classic games!
+
+Made BY [Vaibhav-coder-king](https://github.com/Vaibhav-coder-king)
